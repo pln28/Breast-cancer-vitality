@@ -1,11 +1,14 @@
-# INFO2950-GroupProject
+# Predict breast cancer using machine learning algorithms. 
 
-Initial Github push.
+Using Breast Cancer data from cBioPortal for Cancer Genomics, the research question for this paper was as follows: Can we predict the vitality of a breast cancer patient, as of the time the data was collected, using the available clinical and biological data? Which variables among the clinical and biological features have the most significant impact on the vitality of breast cancer patients?
 
-Second Github push.
+# Features
+Accurate breast cancer predictions
+Insights into important diagnostic features
+Support for medical decision-making
 
-Third Github push
+# Contribution
+Contributions to improve accuracy or model interpretability are welcome. Fork the repo, create a branch, and submit a pull request.
 
-fourth push
-
-delete fifth push
+# License
+This project is under the MIT License.
