@@ -8,7 +8,7 @@ Insights into important diagnostic features
 Support for medical decision-making
 
 ### Contribution ### 
-Contributions to improve accuracy or model interpretability are welcome. Fork the repo, create a branch, and submit a pull request.
+Contributions to improve accuracy or model interpretability are welcome.
 
 ### License ### 
 This project is under the MIT License.
